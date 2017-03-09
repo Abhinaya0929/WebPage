@@ -1,0 +1,188 @@
+.parent{
+	margin:0px auto;
+	width:1150px;
+}
+header{
+	height:100px;
+	width:1150px;
+	background:gray;
+	border:1px solid white ;
+	color:white;
+}
+span{
+	color:#FF5733;
+}
+h1{
+	font-size:300%;
+}
+p, {
+	font-size:100%;
+}
+.Section{
+	height:5px;
+	width:1150px;
+	background:#FF5733;
+}
+.h1{
+  position:relative;
+  left:40px;
+  bottom:5px;	
+}
+.h2{
+	position:relative;
+	left:700px;
+	bottom:70px;
+}
+#h21{
+
+}
+#h22{
+  position:relative;
+  left:120px;
+  bottom:18px;
+  
+}
+#h23{
+	position:relative;
+	left:240px;
+	bottom:36px;
+	color:#FF5733;
+
+}
+.Section1{
+	border:1px solid white;
+	width:1150px;
+	position:relative;
+	top:0px;
+	background:gray;
+}
+.A1{
+	position:relative;
+	left:30px;
+	top:30px;
+	color:white;
+}
+.A2{
+	position:relative;
+	left:600px;
+	bottom:20px;
+}
+.email{
+	position:relative;
+
+}
+input{
+	font-size:22px;
+}
+.button{
+
+	position:relative;
+	left:276px;
+	bottom:31px;
+	
+}
+#button{
+	background:#FF5733;
+	font-size:22px;
+	color:white;
+}
+.Section2{
+ border:1px solid white;
+ width:1150px;
+ height:550px;
+ }
+.a1{
+position:relative;
+ left:20px;
+}
+.b1{
+	border:1px solid white;
+	width:700px;
+	position:relative;
+	left:15px;
+	height:500px;
+	
+}
+.b11{
+	border:1px solid #95A5A6;
+	width:650px;
+	position:relative;
+	left:15px;
+    background:#95A5A6;
+}
+.b12{
+	border:1px solid #95A5A6;
+	top:15px;
+	left:15px;
+	width:650px;
+	position:relative;
+	background:#95A5A6;
+}
+.b13{
+	border:1px solid #95A5A6;
+	top:30px;
+	left:15px;
+	width:650px;
+	position:relative;
+	background:#95A5A6;
+}
+h3,p{
+	position:relative;
+	left:5px;
+}
+.c1{
+	border:1px solid gray;
+	width:350px;
+	height:300px;
+	position:relative;
+	left:750px;
+	bottom:500px;
+	background:gray;
+	color:white;
+
+}
+.c12{
+	border:1px solid gray;
+	height:240px;
+	
+}
+.c12 input{
+
+	position:relative;
+	bottom:30px;
+	left:30px;
+	font-size: 18px;
+}
+.c12 h4{
+	position:relative;
+	left:20px;
+}
+.d1{
+	position:relative;
+	bottom:15px;
+}
+.d2{
+	position:relative;
+	bottom:55px;
+}
+.d3{
+	position:relative;
+	bottom:95px;
+}
+.c12 #button{
+	position:relative;
+	bottom:115px;
+	left:27px
+}
+
+
+footer{
+	background:#FF5733;
+	color:white;
+	text-align:center;
+	height:100px;
+	line-height:100px;
+	width:1150px;
+	position:relative;
+	bottom:15px;
+}

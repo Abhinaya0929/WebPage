@@ -1,0 +1,128 @@
+.parent{
+	margin:0px auto;
+	width:1150px;
+}
+header{
+	height:100px;
+	width:1150px;
+	background:gray;
+	border:1px solid white ;
+	color:white;
+}
+span{
+	color:#FF5733;
+}
+h1{
+	font-size:300%;
+}
+p, {
+	font-size:100%;
+}
+.Section{
+	height:5px;
+	width:1150px;
+	background:#FF5733;
+}
+.h1{
+  position:relative;
+  left:40px;
+  bottom:5px;	
+}
+.h2{
+	position:relative;
+	left:700px;
+	bottom:70px;
+}
+#h21{
+
+}
+#h22{
+  position:relative;
+  left:120px;
+  bottom:18px;
+  color:#FF5733;
+}
+#h23{
+	position:relative;
+	left:240px;
+	bottom:36px;
+}
+.Section1{
+	border:1px solid white;
+	width:1150px;
+	position:relative;
+	top:0px;
+	background:gray;
+}
+.A1{
+	position:relative;
+	left:30px;
+	top:30px;
+	color:white;
+}
+.A2{
+	position:relative;
+	left:600px;
+	bottom:20px;
+}
+.email{
+	position:relative;
+
+}
+input{
+	font-size:22px;
+}
+.button{
+
+	position:relative;
+	left:276px;
+	bottom:31px;
+	
+}
+#button{
+	background:#FF5733;
+	font-size:22px;
+	color:white;
+}
+#P1{
+	border:1px solid white;
+	width:1150px;
+	height:530px;
+}
+.p1{
+	border: 1px solid white;
+	height:200px;
+	width:700px;
+	position:relative;
+	top:20px;
+}
+.p2{
+	border:1px solid white;
+	width:700px;
+	height:250px;
+	position:relative;
+	top:40px;
+	background:black;
+	color:white;
+}
+.p3{
+	border: 1px solid white;
+	height:200px;
+	width:350px;
+	position:relative;
+	left:730px;
+	bottom:433px;
+	background:black;
+	color:white;
+}
+
+footer{
+	background:#FF5733;
+	color:white;
+	text-align:center;
+	height:100px;
+	line-height:100px;
+	width:1150px;
+	position:relative;
+	bottom:15px;
+}
